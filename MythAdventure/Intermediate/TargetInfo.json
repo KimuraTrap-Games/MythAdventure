@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MythAdventure",
+			"Path": "..\\Source\\MythAdventure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MythAdventureEditor",
+			"Path": "..\\Source\\MythAdventureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\scott\\desktop\\mythadventure\\mythadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mythadventure\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\scott\\desktop\\mythadventure\\mythadventure\\intermediate\\build\\win64\\x64\\mythadventureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\scott\\desktop\\mythadventure\\mythadventure\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mythadventure\\definitions.mythadventure.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
